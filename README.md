@@ -47,4 +47,4 @@ Authors
 
 
 
-[4dgame_testing]: https://github.com/mathias.steiger/4dgame_testing
+[4dgame_testing]: https://github.com/mathias-steiger/4dgame_testing
